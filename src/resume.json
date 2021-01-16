@@ -15,25 +15,25 @@
         "network": "Resume",
         "username": "Magid",
         "url": "resume.pdf",
-        "x_icon": "fa fa-2x fa-file-pdf-o"
+        "x_icon": "fa fa-2x fa-file-pdf"
       },
       {
         "network": "LinkedIn",
         "username": "magid-mroueh",
         "url": "https://www.linkedin.com/in/magid-mroueh",
-        "x_icon": "fa fa-2x fa-linkedin"
+        "x_icon": "fab fa-2x fa-linkedin"
       },
       {
         "network": "GitHub",
         "username": "magidmroueh",
         "url": "https://github.com/magidmroueh",
-        "x_icon": "fa fa-2x fa-github"
+        "x_icon": "fab fa-2x fa-github"
       },
       {
         "network": "CodePen",
         "username": "magidmroueh",
         "url": "https://codepen.com/magidmroueh",
-        "x_icon": "fa fa-2x fa-codepen"
+        "x_icon": "fab fa-2x fa-codepen"
       }
     ]
   },
@@ -205,11 +205,11 @@
     },
     {
       "name": "Foodie",
-      "x_icon": "fa-cutlery"
+      "x_icon": "fa-utensils"
     },
     {
       "name": "Live in the now",
-      "x_icon": "fa-globe"
+      "x_icon": "fa-brain"
     }
   ]
 }
