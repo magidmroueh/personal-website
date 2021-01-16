@@ -1,5 +1,5 @@
-# Magid Mroueh Personal website
-https://magidmroueh.github.io
+# Personal website built with react
+https://magid.herokuapp.com
 ## License
 
 MIT
