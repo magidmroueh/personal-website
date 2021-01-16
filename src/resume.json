@@ -1,0 +1,215 @@
+{
+  "basics": {
+    "name": "Magid Mroueh",
+    "label": "Software Engineer",
+    "picture": "images/magidmroueh.png",
+    "x_title": "Hey There! Glad you're here",
+    "summary": "A software engineer with experience leading teams of local and remote developers. Worked on multiple known products in Lebanon and the region. Experience working using multiple technologies on both backend (PHP, Node.js) and frontend (react, angular, typescript).",
+    "location": {
+      "country": "Lebanon",
+      "countryCode": "LB",
+      "region": "Beirut"
+    },
+    "profiles": [
+      {
+        "network": "Resume",
+        "username": "Magid",
+        "url": "resume.pdf",
+        "x_icon": "fa fa-2x fa-file-pdf-o"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "magid-mroueh",
+        "url": "https://www.linkedin.com/in/magid-mroueh",
+        "x_icon": "fa fa-2x fa-linkedin"
+      },
+      {
+        "network": "GitHub",
+        "username": "magidmroueh",
+        "url": "https://github.com/magidmroueh",
+        "x_icon": "fa fa-2x fa-github"
+      },
+      {
+        "network": "CodePen",
+        "username": "magidmroueh",
+        "url": "https://codepen.com/magidmroueh",
+        "x_icon": "fa fa-2x fa-codepen"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Toothpick & Markit",
+      "position": "Senior Software Engineer",
+      "website": "https://www.toothpickapp.com",
+      "startDate": "2020-10-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Postlight",
+      "position": "Senior Software Engineer",
+      "website": "https://www.postlight.com",
+      "startDate": "2019-08-05",
+      "endDate": "2020-09-30",
+      "summary": "Senior Software Engineer, worked with Wordpress, Node.js, React.js, Typescript, Slack APIs.",
+      "highlights": []
+    },
+    {
+      "company": "Idea To Life",
+      "position": "Technical Lead",
+      "website": "https://www.ideatolife.me",
+      "startDate": "2017-05-01",
+      "endDate": "2019-07-31",
+      "summary": "Led a team of 8 developers to deliver multiple projects with Lumen, angular and native mobile development.",
+      "highlights": []
+    },
+    {
+      "company": "Blu Solutions",
+      "position": "Senior Software Engineer",
+      "website": "http://www.bluloyalty.com",
+      "startDate": "2015-06-01",
+      "endDate": "2017-05-01",
+      "summary": "Designed, developed and maintained web-based applications using Laravel and CodeIgniter Platforms.",
+      "highlights": []
+    },
+    {
+      "company": "Layout intl.",
+      "position": "Software Engineer & Technical Product Manager",
+      "website": "https://layoutintl.com",
+      "startDate": "2014-01-13",
+      "endDate": "2016-05-30",
+      "summary": "Developed and maintained web-based applications using PHP and Zend framework.",
+      "highlights": []
+    },
+    {
+      "company": "LinkSystems - Kuwait",
+      "position": "Software Engineer - Team Leader",
+      "website": "https://layoutintl.com",
+      "startDate": "2013-06-01",
+      "endDate": "2014-01-01",
+      "summary": "Lead the Design and Development of web-based HR and Time attendance system that deals with various types of fingerprint hardware machines.",
+      "highlights": []
+    },
+    {
+      "company": "Layout LTD",
+      "position": "Junior Software Developer",
+      "website": "https://layoutintl.com",
+      "startDate": "2012-08-01",
+      "endDate": "2013-02-28",
+      "summary": "developed and maintained web-based applications.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Lebanese International University",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2009-09-15",
+      "endDate": "2012-07-31",
+      "courses": [
+        "Object Oriented Programming",
+        "Database Management Systems",
+        "Operating systems and computers architectures"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "PHP",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Node.js",
+      "level": "Intermediate",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "HTML",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "CSS - SCSS",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Cloud",
+      "level": "Basic",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Laravel",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "GraphQL",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Docker",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Unit Testing",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Postgres",
+      "level": "Basic",
+      "keywords": ["Software Developer"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent speaker"
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Code lover",
+      "x_icon": "fa-code"
+    },
+    {
+      "name": "Foodie",
+      "x_icon": "fa-cutlery"
+    },
+    {
+      "name": "Live in the now",
+      "x_icon": "fa-globe"
+    }
+  ]
+}
